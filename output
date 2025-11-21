@@ -1,0 +1,12 @@
+compiled by using this ones :
+javac -cp ".;lib/gson-2.8.9.jar" Main.java
+java -cp ".;lib/gson-2.8.9.jar" Main input.json
+
+
+n = 4
+k = 3
+Decoded Roots:
+Root 1 = 4
+Root 2 = 7
+Root 3 = 12
+Root 6 = 39
